@@ -3,7 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict/>
+	<dict>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>BDBOAuth1Manager.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MBProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-TwitterX.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>1C3436CEA5C3D39764C5F54374794ECB</key>
@@ -11,12 +32,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>445B3D47256376A8FB06D383FDBEA0C4</key>
+		<key>39C00BA15440103D9FF4D2CE8010614D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>85421DBF2953E4A8513DCF7C3FCC0D1B</key>
+		<key>445B3D47256376A8FB06D383FDBEA0C4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
